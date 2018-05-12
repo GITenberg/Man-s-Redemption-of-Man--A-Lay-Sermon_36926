@@ -1,0 +1,27 @@
+_repo: Man-s-Redemption-of-Man--A-Lay-Sermon_36926
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Osler, William
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '660'
+    url: http://www.gutenberg.org/2009/agents/660
+    wikipedia: http://en.wikipedia.org/wiki/William_Osler
+description: ''
+gutenberg_issued: '2011-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'R'
+- !lcsh 'Medicine'
+title: 'Man''s Redemption of Man: A Lay Sermon'
+url: http://www.gutenberg.org/ebooks/36926
